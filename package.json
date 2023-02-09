@@ -1,0 +1,12 @@
+{
+  "name": "sign-message-with-rsa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/ebrahimmfadae/sign-message-with-rsa.git",
+  "author": "ebrahimmfadae <ebrahimmfadae@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
